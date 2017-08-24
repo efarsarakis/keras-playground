@@ -1,0 +1,7 @@
+CNN tutorial: https://elitedatascience.com/keras-tutorial-deep-learning-in-python#step-3
+CNN tutorial solution better: https://github.com/fchollet/keras/blob/master/examples/mnist_cnn.py
+
+Multi-step time series forecasting with LSTM: 
+         https://machinelearningmastery.com/multi-step-time-series-forecasting-long-short-term-memory-networks-python/
+
+
