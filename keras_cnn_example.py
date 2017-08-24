@@ -1,3 +1,8 @@
+## Example from: 
+##        https://elitedatascience.com/keras-tutorial-deep-learning-in-python#step-3
+## More accurate code can be found at :
+##      https://github.com/fchollet/keras/blob/master/examples/mnist_cnn.py
+
 import numpy as np
 np.random.seed(123)
 from keras.models import Sequential
